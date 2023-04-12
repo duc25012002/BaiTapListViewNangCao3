@@ -111,6 +111,5 @@ public class MainActivity extends AppCompatActivity {
         lv_doc_gia = findViewById(R.id.lv_doc_gia);
         img_delete = findViewById(R.id.img_delete);
         xoaCheckBox();
-
     }
 }
